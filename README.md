@@ -1,2 +1,0 @@
-# demo-project
-Nodejs demo
